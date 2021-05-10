@@ -1,8 +1,8 @@
 # 成像实验
 
-@Author Huang WeiChen
+@Author： Huang WeiChen
 
-@TIme   2021/5/10
+@Time:   2021/5/10
 
 @BIT的成像作业
 
@@ -14,11 +14,14 @@ Input :xxxxx.dat
 Output :电场线图，xxxx.res
 
 ///////////////////////////////////TODO////////////////////////////////////
+
+
 绘图需要 graphics.h 这个头文件，需要自己去下载
+
+
 这里放一个链接  https://blog.csdn.net/edc370/article/details/79944550 可以参考这个去下载和配置
 
 读入的方式需要改进
-
 
 
 
@@ -27,3 +30,6 @@ Output :电场线图，xxxx.res
 
 有一堆bug 还没调
 
+
+
+声明：这里感谢我的朋友们给我提供的一些源代码，本人仅做了一些优化，如有存在bug还请海涵。
